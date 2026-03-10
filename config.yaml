@@ -1,0 +1,11 @@
+sherlock:
+  timeout: 2
+  platforms: null
+  output_format: all
+
+logging:
+  level: INFO
+  file: auditoria.log
+
+reports_dir: reports
+
